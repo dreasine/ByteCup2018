@@ -1,0 +1,1 @@
+Last month, Google stopped supporting domain-fronting technology, thus depriving third-party developers of an effective way to bypass locks, including at the state level

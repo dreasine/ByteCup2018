@@ -1,0 +1,1 @@
+Microsoft’s first attempt to create a lighter version of Windows 10 – which it dubbed Windows 10 S – didn’t go so well, because it did away with the platform’s best feature: its ability to run a crapton of legacy apps
